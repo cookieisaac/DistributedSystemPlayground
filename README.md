@@ -5,6 +5,7 @@
 2. ```helloworld``` and ```pingpong``` are from the [Kompics tutorial page](http://kompics.sics.se/current/introduction/helloworld.html)
 3. ```helloworld-enhanced``` is from [the video lecture](
 https://www.youtube.com/watch?v=_E18mTGeCUY&list=PL700757A5D4B3F368&index=2)
+4. Lecture notes are based on [this course offered by KTH](https://canvas.instructure.com/courses/902299/assignments/syllabus)
 
 ## Notes
 ### Lecture 1
